@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace CoreEscuela.Entidades
 {
-    public class Escuela: ObjetoEscuelaBase
+    public class Escuela:ObjetoEscuelaBase
     {
         public int AñoDeCreación { get; set; }
 
